@@ -1,0 +1,14 @@
+config/.env
+*.mo
+*.pot
+venv/
+.DS_Store
+db.sqlite
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+*.sqlite3
+*.log
